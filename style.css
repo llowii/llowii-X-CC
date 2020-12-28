@@ -133,6 +133,7 @@ nav {
 #nos_agences_section {
     background: #2c3335;
     height: 100%;
+    min-height: 647px;
 }
 #a_propos_section {
     background: linear-gradient(185deg,#fff 85%,#fff 50%);
